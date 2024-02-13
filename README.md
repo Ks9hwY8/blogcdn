@@ -1,0 +1,2 @@
+# blogcdn
+cdn
